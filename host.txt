@@ -1,0 +1,37 @@
+C:\Windows\System32\drivers\etc\hosts			
+			
+10.28.1.93	slm-prd.ggg.com.vn		slm-prd
+10.31.1.2	ftp-nprd.ggg.com.vn		ftp-nprd
+10.31.1.3	s4-dev.ggg.com.vn		s4-dev
+10.31.1.4	fio-dev.ggg.com.vn		fio-dev
+10.31.1.5	car-dev.ggg.com.vn		car-dev
+10.31.1.6	slt-dev.ggg.com.vn		slt-dev
+10.31.1.7	po-dev.ggg.com.vn		po-dev
+10.28.1.94	wd-dev.ggg.com.vn		wd-dev
+10.31.1.8	s4-qas.ggg.com.vn		s4-qas
+10.31.1.9	fio-qas.ggg.com.vn		fio-qas
+10.31.1.10	car-qas.ggg.com.vn		car-qas
+10.31.1.12	slt-qas.ggg.com.vn		slt-qas
+10.31.1.13	po-qas.ggg.com.vn		po-qas
+10.28.1.95	wd-qas.ggg.com.vn		wd-qas
+10.33.1.13	s4-ascs.ggg.com.vn		s4-ascs
+10.33.1.15	s4-vascs.ggg.com.vn		s4-vascs
+10.33.1.14	s4-ers.ggg.com.vn		s4-ers
+10.33.1.16	s4-vers.ggg.com.vn		s4-vers
+10.33.1.2	s4-pr1.ggg.com.vn		s4-pr1
+10.33.1.3	s4-pr2.ggg.com.vn		s4-pr2
+10.33.1.4	s4-pr3.ggg.com.vn		s4-pr3
+10.33.1.5	s4-pr4.ggg.com.vn		s4-pr4
+10.33.1.7	fio-pr1.ggg.com.vn		fio-pr1
+10.33.1.8	fio-pr2.ggg.com.vn		fio-pr2
+10.33.1.6	car-prd.ggg.com.vn		car-prd
+10.33.1.9	slt-prd.ggg.com.vn		slt-prd
+10.33.1.10	po-prd.ggg.com.vn		po-prd
+10.28.1.106	wd-prd1.ggg.com.vn		wd-prd1
+10.28.1.106	wd-prd.ggg.com.vn		wd-prd
+10.33.1.12	ftp-prd.ggg.com.vn		ftp-prd
+10.32.1.5	hana-dev.ggg.com.vn		hana-dev
+10.32.1.6	hana-qas.ggg.com.vn		hana-qas
+10.34.1.4	hana-vprd.ggg.com.vn		hana-vprd
+10.34.1.2	hana-prd.ggg.com.vn		hana-prd
+10.34.1.3	hana-bkp.ggg.com.vn		hana-bkp
